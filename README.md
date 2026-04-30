@@ -96,10 +96,3 @@ GestureSpeak/
 └── README.md                   # This file
 
 ---
-
-✅ **Next Steps for You:**
-- Replace `yourusername` with your actual GitHub username in the clone URL.
-- If your images are in a subfolder like `/images/`, update the image paths like `images/slts.png`, etc.
-- Update "Your Name" in the **Author** section.
-
-Let me know if you want help generating a `.gitignore`, a LICENSE file, or demo video embed code!
